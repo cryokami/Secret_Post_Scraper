@@ -9,3 +9,5 @@ A: Change the variable PAGES within the scraper entry.
 Q: Why does the startup take so long? 
 A: Libretranslate needs to download the language models on startup. There may be a way to skip this however i have not been able to make it work with the libretranslate documentation. I apologize. 
 
+Q: How Do I run the Program? 
+A: Simply run the runme.bat on windows. 
