@@ -1,5 +1,7 @@
 A simple proof of concept ETL Pipeline to take posts from an italian messageboard and translate them into various languages. 
 The original author of wait-for-it.sh is vishnubob found here https://github.com/vishnubob/wait-for-it
+
+
 Q&A: 
 
 
@@ -17,3 +19,6 @@ A: Libretranslate needs to download the language models on startup. There may be
 
 Q: How Do I run the Program? 
 A: Simply run the runme.bat on windows. 
+
+Q:How can I access the scraped Information?
+A:Given that you don't change anything of note under localhost/docs for the simple FASTAPI GUI
